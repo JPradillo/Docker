@@ -1,0 +1,17 @@
+site_name: Despliegue de aplicaciones web
+site_url: https://jpradillo.github.io/DEAW/
+theme:
+  name: material
+  features:
+    - highlight
+  
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.highlight:
+      linenums: true
+
+nav:
+  - 'Tema 6':
+    - 'Práctica 6.1': 'dockerizacion.md'
