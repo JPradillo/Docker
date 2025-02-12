@@ -1,5 +1,5 @@
 site_name: Despliegue de aplicaciones web
-site_url: https://jpradillo.github.io/DEAW/
+site_url: https://jpradillo.github.io/Docker/
 theme:
   name: material
   features:
