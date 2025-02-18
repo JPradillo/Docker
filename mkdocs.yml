@@ -1,5 +1,5 @@
 site_name: Despliegue de aplicaciones web
-site_url: https://jpradillo.github.io/Docker/
+site_url: https://jpradillo.github.io/Docker
 theme:
   name: material
   features:
@@ -13,5 +13,6 @@ markdown_extensions:
       linenums: true
 
 nav:
-  - 'Tema 6':
+  - 'Tema 6': 
     - 'Práctica 6.1': 'dockerizacion.md'
+    - 'Práctica 6.2': 'despliegueAplicacion.md'
