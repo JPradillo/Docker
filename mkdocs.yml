@@ -16,3 +16,4 @@ nav:
   - 'Tema 6': 
     - 'Práctica 6.1': 'dockerizacion.md'
     - 'Práctica 6.2': 'despliegueAplicacion.md'
+    - 'Práctica 6.3': 'despliegueLDAP.md'
